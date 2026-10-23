@@ -26,8 +26,18 @@
 | [Weather App](https://github.com/shayan295-a11y/weather-app) | Live weather via the OpenWeather API | HTML, CSS, JS |
 | [JavaScript Calculator](https://github.com/shayan295-a11y/javascript-calculator) | Lightweight calculator in pure JS | HTML, CSS, JS |
 
+## 📊 GitHub Stats
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayan295-a11y&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayan295-a11y&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shayan295-a11y&theme=radical)
+
 ## 📫 Let's connect
+- Portfolio: [myfileportfolioo.netlify.app](https://myfileportfolioo.netlify.app/)
 - Email: [shayanrajpoot295@gmail.com](mailto:shayanrajpoot295@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shayan295-a11y&color=blueviolet&style=flat)
 
 ## 🌱 Currently learning
 React · Git workflows · Advanced JavaScript
