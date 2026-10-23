@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shayan%20E%20Ali&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Frontend%20Web%20Developer&descSize=18&descAlignY=58)
+
 # Hi, I'm Shayan E Ali 👋
 
 **Frontend Web Developer** building responsive, user-friendly websites and learning something new every day.
@@ -12,11 +14,23 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7952B3&width=460&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Building+responsive+websites)](https://github.com/shayan295-a11y)
+
+## 👤 About Me
+- 🎓 BSCS student at Virtual University of Pakistan, based in Lahore
+- 💻 Frontend developer working with HTML, CSS, JavaScript, Bootstrap and WordPress
+- 🔌 I build projects with REST APIs and responsive, user-friendly layouts
+- 🌱 Currently learning React and advanced JavaScript
+- 📫 Reach me at **shayanrajpoot295@gmail.com**
+
 ## 🚀 What I'm working on
 - Building small, practical projects to sharpen my JavaScript
 - Creating responsive layouts with Bootstrap and modern CSS
 - Working with REST APIs
 - Building WordPress sites
+
+## 🧰 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,github,vscode)
 
 ## 🛠️ Projects
 | Project | What it does | Tech |
@@ -41,6 +55,9 @@
 
 ## 🌱 Currently learning
 React · Git workflows · Advanced JavaScript
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/shayan295-a11y/shayan295-a11y/output/github-contribution-grid-snake.svg)
 
 ---
 ⭐ Feel free to check out my repos and share feedback!
