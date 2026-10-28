@@ -67,7 +67,7 @@ React · Git workflows · Advanced JavaScript
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [SEO Meta Tag Checker](https://github.com/shayaneali/seo-meta-tag-checker) — [Live demo](https://shayaneali.github.io/seo-meta-tag-checker/) | ✅ Live |
-| 2 | Schema Markup Generator (LocalBusiness, FAQ, Article, Product) | 🔜 Planned |
+| 2 | [Schema Markup Generator](https://github.com/shayaneali/schema-markup-generator) — [Live demo](https://shayaneali.github.io/schema-markup-generator/) | ✅ Live |
 | 3 | SERP Snippet Previewer (desktop + mobile, pixel-width warnings) | 🔜 Planned |
 | 4 | AI Alt-Text & Meta Description Writer | 🔜 Planned |
 | 5 | Core Web Vitals Dashboard (PageSpeed Insights API) | 🔜 Planned |
